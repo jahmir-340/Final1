@@ -1,0 +1,56 @@
+
+  
+  h1{
+    color:#edecef;
+    font-family:serif;
+    font-size: 400%;
+
+  }
+  #header{
+    display: inline;
+    text-align: center;
+  }
+  .wte{
+    height: 400px;
+    width: 300px;
+  }
+  #homepagephotos{
+    width: 100%;
+    display:inline-block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+  #logo{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+  
+  }
+  ul {
+    list-style-type: none;
+    margin-top: 50px;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(152, 46, 213);
+    float: right;
+    width: 175px;
+    }
+    
+    li {
+      float: right;
+    }
+    
+    li a {
+      display: inline-block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+    
+    li a:hover {
+      background-color: #111;
+    }
